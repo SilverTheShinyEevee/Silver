@@ -5,33 +5,36 @@
         "#script": 1171068011730452551,
         "#general": 1161653384546361439,
         "#promotions": 1185227442814718065,
-        "#moderator-only": ,
-        "#sidequest-ideas": ,
-        "#scam-info": ,
-        "#automod-alerts": ,
-        "#ost-creation": ,
-        "#ersonality-quiz-setup": ,
-        "#player-character-options": 
-        "#maincode": ,
-        "#bugs": ,
-        "#dev": 
-        "#beta": 
-        "#finalrelease": 
-        "#silversprite": 
-        "#cover": 
-        "#dark-matter-bittercold-import": 
-        "#unknown-creation": 
-        "#support": 
-        "#ad-blurbs": 
-        "#metadata": 
-        "#harper": 
+        "#moderator-only": 1184954511819808932,
+        "#sidequest-ideas": 1187405713220317224,
+        "#scam-info": 1192853096771108989,
+        "#automod-alerts": 1193942347638112307,
+        "#ost-creation": 1221338205488545872,
+        "#ersonality-quiz-setup": 1224801905465753651,
+        "#player-character-options": 1221337020295548928,
+        "#maincode": 1161670522296344616,
+        "#bugs": 1161670603397419008,
+        "#dev": 1163521235850899588,
+        "#beta": 1163522263656697997,
+        "#finalrelease": 1199729757428916317,
+        "#silversprite": 1163520845315051630,
+        "#cover": 1163520960465477753,
+        "#dark-matter-bittercold-import": 1212044571278844034,
+        "#unknown-creation": 1212044779831955456,
+        "#support": 1192111246254813245,
+        "#ad-blurbs": 1220761550306934795,
+        "#metadata": 1222216738226176010,
+        "#harper": 1224861407829426297,
         
     },
     "roles": {
-        "@Server Bot": 450886915340763151,
-        "@Server Owner": 1238893958159925391,
-        "@Server Moderator": 450903750648004608,
-        "@Server Booster": 616335384791482389,
-        "@Server Supporter": 1192190765288411277
+        "@Guildmaster": 1162416899477483540,
+        "@Moderator": 1187503049317552258,
+        "@Coder": 1162411340611195021,
+        "@BugCatcher": 1162411491505487994,
+        "@BetaTester": 1163521401840484425,
+        "@Scripter": 1170718600349356082,
+        @"Alt": 1192841084968128552,
+        
     }
 }
